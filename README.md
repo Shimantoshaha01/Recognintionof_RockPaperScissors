@@ -1,6 +1,5 @@
-Yes. Here is the **complete GitHub-ready `README.md` in one Markdown block**. You can copy everything inside the block directly into your `README.md` file.
 
-````markdown
+
 # 🪨📄✂️ Rock-Paper-Scissors Image Classification using CNN
 
 A Convolutional Neural Network (CNN) based computer vision project for classifying hand gestures into three categories: **Paper, Rock, and Scissors**.
